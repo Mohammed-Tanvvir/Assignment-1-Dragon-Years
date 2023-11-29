@@ -1,13 +1,3 @@
-/*==========================================================
-
- Title:       Assignment 1 - Dragon Years
- Course:      CIS 2252
- Author:      Mohammed Tanvvir
- Date:        < 5/28 /23 >
- Description: Dragon age
-
- ==========================================================
-*/
 #include <iostream>
 
 using namespace std; 
