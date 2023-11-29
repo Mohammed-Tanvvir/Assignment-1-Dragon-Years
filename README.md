@@ -4,8 +4,8 @@ This C++ program calculates the age of a dragon in wizard years based on a speci
 Example:
 
 Input: 
-Enter the dragon's name and age: Draco 8
+"Enter the dragon's name and age": Draco 8
 
 Output:
-The dragon named Draco is 37 years old in wizard years.
+"The dragon named Draco is 37 years old in wizard years."
 
