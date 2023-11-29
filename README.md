@@ -5,6 +5,7 @@ Example:
 
 Input: 
 Enter the dragon's name and age: Draco 8
+
 Output:
 The dragon named Draco is 37 years old in wizard years.
 
